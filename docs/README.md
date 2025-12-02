@@ -23,4 +23,4 @@ The following documents provide detailed guidance for each phase of the project 
 
 ## Getting Started
 
-New team members should begin with the [Project Management Overview](octoacme-project-management-overview.md) to understand OctoAcme's principles and approach, then explore phase-specific documents as needed. For active projects, keep the Project Charter updated in your project repository and consider adding process-specific documentation to `.copilot/` for enhanced Copilot Spaces context.
+New team members should begin with the [Project Management Overview](octoacme-project-management-overview.md) to understand OctoAcme's principles and approach. From there, explore phase-specific documents as needed for your role or current project phase. For active projects, keep the Project Charter updated in your project repository. Consider adding process-specific documentation to `.copilot/` for enhanced Copilot Spaces context.
