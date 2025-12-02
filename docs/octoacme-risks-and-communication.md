@@ -15,9 +15,9 @@ Maintain a simple table with:
 
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution by Project Manager with input from Solutions Architect, QA Lead, and team
-- Assess: estimate impact and likelihood with cross-functional input
-- Mitigate: reduced via actions, contingency plans developed by relevant role owners
-- Monitor: review at weekly syncs facilitated by Scrum Master and update status
+- Assess: estimate impact and likelihood with cross-functional input from relevant role owners
+- Mitigate: reduced via actions and contingency plans developed by relevant role owners
+- Monitor: review at weekly syncs facilitated by Scrum Master and Project Manager updates status
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)

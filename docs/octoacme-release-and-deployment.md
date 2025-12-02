@@ -15,7 +15,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Rollback / mitigation plan documented by Solutions Architect and QA Lead
 - Smoke tests prepared by QA Lead
 - Customer communication plan finalized by Support/Success Manager
-- UX Designer validation for user-facing changes
+- User-facing changes validated by UX Designer
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
